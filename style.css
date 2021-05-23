@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    border-style: solid;
+    border-color: darkred;
+    border-width: 5px;
+}
+
+p {
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 30px;
+}
